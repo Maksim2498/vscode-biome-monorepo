@@ -1,8 +1,8 @@
 {
 	"name": "biome-monorepo",
-	"version": "0.0.6",
-	"displayName": "Biome Monorepo",
-	"publisher": "fronterior",
+	"version": "0.1.0",
+	"displayName": "Biome Monorepo (lazy)",
+	"publisher": "cutticat",
 	"author": {
 		"name": "fronterior",
 		"email": "lowfronterior@gmail.com"
